@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Coding...
+Coding...👨‍💻
 
 
 ## 🌐 Socials:

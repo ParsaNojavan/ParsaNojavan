@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Busy with Coding👨‍💻
+Busy Coding👨‍💻
 
 
 

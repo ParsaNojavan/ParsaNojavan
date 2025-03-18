@@ -21,12 +21,12 @@ Busy Coding👨‍💻
 [![](https://visitcount.itsvg.in/api?id=ParsaNojavan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Javascript Code:
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ```javascript
 console.log("آHello,my name is Parsa")
 ```
 
-Python Code:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ```python
 print("آHello,my name is Parsa")
 ```

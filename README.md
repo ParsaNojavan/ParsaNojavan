@@ -23,10 +23,10 @@ Busy Coding👨‍💻
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Javascript Code:
 ```javascript
-console.log(&quotHello, World!&quot)
+console.log("آHello,my name is Parsa")
 ```
 
 Python Code:
 ```python
-print(&quotHello, World in Python!&quot)
+print("آHello,my name is Parsa")
 ```

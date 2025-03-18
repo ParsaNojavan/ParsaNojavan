@@ -25,7 +25,7 @@ Busy Coding👨‍💻
 ```javascript
 console.log("آHello,my name is Parsa")
 ```
-
+![Python](https://th.bing.com/th/id/OIP.q0DQLwqov4XeEv1FvaWwwAHaHa?rs=1&pid=ImgDetMain)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ```python
 print("آHello,my name is Parsa")

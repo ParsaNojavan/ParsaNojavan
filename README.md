@@ -21,3 +21,12 @@ Busy Coding👨‍💻
 [![](https://visitcount.itsvg.in/api?id=ParsaNojavan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Javascript Code:
+```javascript
+console.log(&quotHello, World!&quot)
+```
+
+Python Code:
+```python
+print(&quotHello, World in Python!&quot)
+```

@@ -10,8 +10,8 @@ Founder Of Develop Era</samp></h3><a id="user-content-hey-i-am-aslan-im-a-19-yo-
 
  <div align="center" dir="auto">
   
-![](https://github-readme-stats.vercel.app/api?username=ParsaNojavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParsaNojavan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ParsaNojavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ParsaNojavan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaNojavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   <br>
 

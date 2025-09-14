@@ -112,7 +112,7 @@ class Person{
 
 int main() {
 	enum Gender myGender = Male;
-	Person Parsa("Parsa","Nojavan",18,myGender);
+	Person Parsa("Parsa","Nojavan",19,myGender);
 	Parsa.Introduce();
 	return 0;
 }

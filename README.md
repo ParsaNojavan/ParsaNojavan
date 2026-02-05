@@ -66,13 +66,7 @@ Founder & Ceo Of Develop Era</samp></h3><a id="user-content-hey-i-am-aslan-im-a-
   <br>
 </p>
 
-
-<p align="center">
-  <img
-    src="https://images.weserv.nl/?url=github-profile-trophy.vercel.app%2F%3Fusername%3Dparsanojavan%26theme%3Donedark%26row%3D1%26column%3D6"
-    alt="GitHub Profile Trophy"
-  />
-</p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=parsanojavan&column=9&margin-w=15&margin-h=15&theme=onedark" alt="GitHub Trophies" /></a></p>
 
 
 

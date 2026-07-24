@@ -59,6 +59,7 @@ Founder & Ceo Of Develop Era</samp></h3><a id="user-content-hey-i-am-aslan-im-a-
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="MQTT" src="https://img.shields.io/badge/MQTT-%2320232a.svg?style=for-the-badge&logo=mqtt&logoColor=%2366FFE3" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 
